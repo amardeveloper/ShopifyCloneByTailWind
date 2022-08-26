@@ -1,7 +1,6 @@
 # _Hello I'm AMAR_
-I've been Working on this assigments that has been given by our mentor [Hitesh Choudhary](https://github.com/hiteshchoudhary)</b><br>
 
-## What I have learn ? 
+## What I learned here? 
 
 - HTML 5 Tags and Elements
 - CSS 3 Properties and usages of position 
